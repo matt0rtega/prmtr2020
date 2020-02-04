@@ -35,6 +35,12 @@ get_header();
 		margin-bottom: 2.4rem;
 	}
 
+	#primary:after {
+  content: "";
+  display: table;
+  clear: both;
+	}
+
 
 		
 	</style>	

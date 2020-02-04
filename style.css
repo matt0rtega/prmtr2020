@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
 Theme Name: PRMTR 2020
-Text Domain: PRMTR 2020
+Text Domain: prmtr
 Version: 1.1
 Requires at least: 4.7
 Requires PHP: 5.2.4
@@ -130,9 +130,6 @@ body {
   -webkit-font-smoothing: antialiased;
   word-break: break-word;
   word-wrap: break-word; }
-
-#site-content {
-  overflow: hidden; }
 
 /* Clearing ---------------------------------- */
 .group::after,
