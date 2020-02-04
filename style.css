@@ -1095,7 +1095,7 @@ ul.social-icons li {
 /*	4.	Site Header
 /* -------------------------------------------------------------------------- */
 #site-header {
-  background: #fff;
+  background: #fff !important;
   position: relative; }
 
 #site-header {
@@ -1112,7 +1112,8 @@ ul.social-icons li {
 .header-inner {
   max-width: 168rem;
   padding: 3.15rem 0;
-  z-index: 100; }
+  z-index: 100;
+  margin-bottom: 16px; }
 
 /* Header Titles ----------------------------- */
 .header-titles-wrapper {
